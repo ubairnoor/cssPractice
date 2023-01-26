@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: cornsilk;
+  font-family: sans-serif;
+  height: 100vh;
+  display: flex;
+  align-items: center; /* Align Item in the Y Axis*/
+  justify-content: center; /* ALign item X axis */
+}
+
+.skill {
+  border: 1px solid red;
+  height: 200px;
+  width: 200px;
+  background-color: rebeccapurple;
+  position: relative;
+}
